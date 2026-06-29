@@ -18,7 +18,7 @@ Layout: The dashboard is divided into six main sections: Total Revenue Generated
 - Added a conditional column called Lead Time Transformed to group the Lead time to 0-30 days and >30 days
 - Removed a column named column 18 which only had nulls
 - Created a Table called Lookup Table from the original table which has two columns: Hotel Type and their Indexes.
-- 
+
 ## DAX Measures
 - Created a Calendar Table
 - Number of Transactions
