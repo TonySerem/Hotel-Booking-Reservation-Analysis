@@ -29,8 +29,8 @@ Layout: The dashboard is divided into six main sections: Total Revenue Generated
 - Total Revenue Loss
   
 ## Objectives
-- The primary purpose of this HR attrition analysis is to identify the factors driving employee departures, predict attrition trends, and implement evidence-based strategies that improve employee retention, reduce costs, and strengthen overall organizational performance
-
+- Our purpose for this analysis is to know the following: Cancellation Level, Average Daily Rate and Revenue made compared to Revenue lost on a monthly basis.
+  
 ## Analysis
 - Key performance indicators (KPI's); Total Number of Employees and Attrition Rate
 - Attrition by Employee's Working Years
