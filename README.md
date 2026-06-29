@@ -5,7 +5,8 @@ Our other focuses are cancellation level, average daily rate and revenue made co
 
 ## Dashboard Preview
 ## 1. Attrition by Employee Satisfaction, Employee Working Years and Gender
-Layout: The dashboard is divided into six main sections: Total Revenue Generated and Total Revenue Loss by Month, Average Daily Rate and % Total Cancellations by Month, Cancellations by Weekdays, Average Daily Rate and Cancellation Rates
+Layout: The dashboard is divided into six main sections: Total Revenue Generated and Total Revenue Loss by Month, Average Daily Rate and % Total Cancellations by Month, Cancellations by Weekdays, Average Daily Rate, Cancellation Rates and Key Recommendations.
+
 <img width="905" height="509" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/a5b22c8b-8e7d-4ca7-8cf9-be6edafe05fd" />
 
 
