@@ -4,28 +4,9 @@ We have a hotel dataset containing Resort and City hotel data from 2015-2017, ou
 Our other focuses are cancellation level, average daily rate and revenue made compared to revenue lost on a monthly basis.
 
 ## Dashboard Preview
-## 1. Attrition by Employee Satisfaction, Employee Working Years and Gender
 Layout: The dashboard is divided into six main sections: Total Revenue Generated and Total Revenue Loss by Month, Average Daily Rate and % Total Cancellations by Month, Cancellations by Weekdays, Average Daily Rate, Cancellation Rates and Key Recommendations.
 
 <img width="905" height="509" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/a5b22c8b-8e7d-4ca7-8cf9-be6edafe05fd" />
-
-
-## 2. Attrition by Job Role and Employee Education
-Description: The dashboard includes the key metrics such as Total number of Employees and Attrition Rate.
-Layout: The dashboard is divided into three main sections: Attrition by Job Role, Attrition by Employee Working Years, Attrition by Employees Education.
-Key Metrics:
--	Total number of Employees: 2,925
--	Attrition Rate: 17%
-<img width="869" height="477" alt="Dashboard 2" src="https://github.com/user-attachments/assets/a5206d6c-7aa0-4d62-8f91-87efaff467c5" />
-
-
-## 3. Age And Performance Attrition
-Description: The dashboard includes the key metrics such as Total number of Employees and Attrition Rate.
-Layout: The dashboard is divided into two main sections: Attrition by Age bracket and Gender and Attrition by Employee Performance.
-Key Metrics:
--	Total number of Employees: 2,925
--	Attrition Rate: 17%
-<img width="881" height="474" alt="Dashboard 3" src="https://github.com/user-attachments/assets/21989eb4-11db-4ebe-b7a5-f21b5e2fc73b" />
 
   ## Tools Used
 - Power Bi
@@ -33,21 +14,19 @@ Key Metrics:
 - DAX
 
 ## Data Preparation - Power Query
-- Removed top rows
-- Changed the first row to be headers
-- Removed columns 40-49 which had no meaningful information
-- Added a conditional column called distance status to group Employee distance to work into: Near by, Far and Very Far
-- Added a conditional column called Employee Working Years to group Employee Working Years into: between 0-10, 11-20 and 21-30
-- Added a conditional column called Employee Satisfaction to group Employee Satisfaction into: Very Satissfied, Satissfied and Dissatisfied
-- Added a conditional column called Age Group to group Employee's Age into: 18-25, 26-35, 36-45, 46-55 and 56 plus
-
+- Promoted the first row to be headers
+- Added a conditional column called Lead Time Transformed to group the Lead time to 0-30 days and >30 days
+- Removed a column named column 18 which only had nulls
+- Created a Table called Lookup Table from the original table which has two columns: Hotel Type and their Indexes.
+- 
 ## DAX Measures
-- Total Employees
-- Total Attrition
-- Inactive Employees
-- Low Performance Employees
-- High Performance Employees
-- Department Attrition
+- Created a Calendar Table
+- Number of Transactions
+- % Total Cancellations
+- Average Daily Rate
+- Total Cancellations
+- Total Revenue
+- Total Revenue Loss
   
 ## Objectives
 - The primary purpose of this HR attrition analysis is to identify the factors driving employee departures, predict attrition trends, and implement evidence-based strategies that improve employee retention, reduce costs, and strengthen overall organizational performance
