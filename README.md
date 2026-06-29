@@ -32,38 +32,20 @@ Layout: The dashboard is divided into six main sections: Total Revenue Generated
 - Our purpose for this analysis is to know the following: Cancellation Level, Average Daily Rate and Revenue made compared to Revenue lost on a monthly basis.
   
 ## Analysis
-- Key performance indicators (KPI's); Total Number of Employees and Attrition Rate
-- Attrition by Employee's Working Years
-- Attrition by Employee Satisfaction
-- Attrition by Distance to Work
-- Attriton by Department
-- Attrition BY Gender
-- Attrition by Job Role
-- Attrition by Employee Working Years
-- Attrition by Employees Education
+-  Total Revenue Generated and Total Revenue Loss by Month
+-  Average Daily Rate and % Total Cancellations by Month
+-  Cancellations by Weekdays
+-  Average Daily Rate by days
+-  Cancellations Rates by days
 
-## Filters
-- Gender
-  
 ## Key Findings and Insights
-- Total Number of Employees: 2,925
-- Attrition Rate: 17%
-- Attrition by Employee's Working Years:
-  Employees with 0–10 years of total working experience had the highest attrition (378), while employees with 31 or more years of working experience had the lowest attrition (11).
-- Attrition by Employee Satisfaction:
-  Dissatisfied employees had the highest attrition (151), followed by Very Satisfied employees (134), Very Dissatisfied employees (111), and Satisfied employees (96).
-- Attrition by Distance to Work:
-  Dissatisfied employees had the highest attrition (151), followed by Very Satisfied employees (134), Very Dissatisfied employees (111), and Satisfied employees (96).
-- Attrition by Department:
-  The Research & Development (R&D) department recorded the highest attrition (282), followed by Sales (186) and Human Resources (HR) (24)
-- Attrition by Gender:
-  Male employees accounted for 63% of total attrition, while female employees accounted for 37%
-- Attrition by Job Role:
- Among the job roles, Laboratory Technician had the highest attrition (130), while Research Director had the lowest attrition (5).
-- Attrition by Employee's Education:
- Employees with a Bachelor's degree had the highest attrition (204), while employees with an Associate degree had the lowest attrition (93).
-- Attrition by Age Bucket:
-  Employees between the age of 26-35 years had the highest attrition (242), while Employees with the age of 36 plus years had the lowest attrition (17).
+- There is a gradual increase in both Total Revenue made and Total Revenue lost from January to August followed by by gradual decrease from August to December.
+- August has the highest Total Revenue ($1,844,836), followed by July ($1,590,291)
+- August has the highest Total Revenue Lost ($1,052,699), followed by July ($717,602)
+- The Average Daily Rate is highest in August ($142.9), followed by July ($125.5) and lowest in January ($64.8)
+- Cancellations by Weekdays is as follows from highest to lowest: Thursday (596), Saturday (543), Monday (542), Friday (498), Wednesday (482), Sunday (336), Tuesday (327)
+- The Average Daily Rate between 0-30 days is $155.1 while the Average Daily Rate when days > 30 is $128.4
+- The Cancellations between 0-30 days is 39.08% while the Cancellations days > 30 is 19.17%
   
 ## Conclusion
 The HR attrition analysis revealed that the organization has an overall attrition rate of 17%, with employee turnover being concentrated within specific groups rather than evenly distributed across the workforce. Employees with 0–10 years of working experience, those aged 26–35 years, and employees in the Research & Development (R&D) department experienced the highest levels of attrition. Additionally, Laboratory Technicians, employees holding a Bachelor's degree, and male employees accounted for a significant proportion of employee departures.
