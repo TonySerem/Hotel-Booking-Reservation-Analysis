@@ -50,9 +50,11 @@ Layout: The dashboard is divided into six main sections: Total Revenue Generated
 ## Conclusion
 The Hotel Booking Reservation Analysis revealed that the highest revenue was generated in August followed by July. Also the Revenue was gradually increasing from January to August then Gradually decreasing to December.
 The analysis also shows that the highest Revenue lost was also in August followed by July. 
-This shows that bookings are high in August and July and more emphasis should be put into these months for more Revenue to be Generated
+This shows that bookings are high in August and July and more emphasis should be put into these months for more Revenue to be Generated.
+
 The Average Daily Rate is also highest in August followed by July, this shows that we could replicate the promotions/discounts during this months to other months to see if we could make some improvements. we could also increase prices slightly during these months to make more revenue.
-The number of cancellations ard also generally high, we should follow up to see what causes this cancellations.
+
+The number of cancellations are also generally high, we should follow up to see what causes this cancellations.
 
  ## Recommendations
 - We can overbook the summer month reservations, with that we can reduce cancellations.
