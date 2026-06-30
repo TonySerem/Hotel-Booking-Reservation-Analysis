@@ -45,12 +45,16 @@ Layout: The dashboard is divided into six main sections: Total Revenue Generated
 - The Average Daily Rate is highest in August ($142.9), followed by July ($125.5) and lowest in January ($64.8)
 - Cancellations by Weekdays is as follows from highest to lowest: Thursday (596), Saturday (543), Monday (542), Friday (498), Wednesday (482), Sunday (336), Tuesday (327)
 - The Average Daily Rate between 0-30 days is $155.1 while the Average Daily Rate when days > 30 is $128.4
-- The Cancellations between 0-30 days is 39.08% while the Cancellations days > 30 is 19.17%
+- The Cancellations between 0-30 days is 39.08% while the Cancellations when days > 30 is 19.17%
   
 ## Conclusion
-The HR attrition analysis revealed that the organization has an overall attrition rate of 17%, with employee turnover being concentrated within specific groups rather than evenly distributed across the workforce. Employees with 0–10 years of working experience, those aged 26–35 years, and employees in the Research & Development (R&D) department experienced the highest levels of attrition. Additionally, Laboratory Technicians, employees holding a Bachelor's degree, and male employees accounted for a significant proportion of employee departures.
-
-The analysis also indicates that employee satisfaction is an important factor influencing retention, with dissatisfied employees recording the highest attrition. However, the relatively high turnover among very satisfied employees suggests that factors beyond satisfaction—such as career growth opportunities, compensation, workload, or external job opportunities—may also contribute to employees leaving the organization.
+The Hotel Booking Reservation Analysis revealed that the highest revenue was generated in August followed by July. Also the Revenue was gradually increasing from January to August then Gradually decreasing to December.
+The analysis also shows that the highest Revenue lost was also in August followed by July. 
+This shows that bookings are high in August and July and more emphasis should be put into these months for more Revenue to be Generated
+The Average Daily Rate is also highest in August followed by July, this shows that we could replicate the promotions/discounts during this months to other months to see if we could make some improvements. we could also increase prices slightly during these months to make more revenue.
+The number of cancellations ard also generally high, we should follow up to see what causes this cancellations.
 
  ## Recommendations
-To improve retention, the organization should prioritize retention strategies for high-risk employee groups by strengthening career development programs, reviewing compensation and benefits, enhancing employee engagement, and conducting targeted stay and exit interviews. Focusing on these areas will help reduce employee turnover, retain valuable talent, lower recruitment and training costs, and improve overall organizational performance.
+- We can overbook the summer month reservations, with that we can reduce cancellations.
+- Focus more on booking between 0-30 days during the summer period (July & August)
+- Reducung the Average Daily Rate might reduce cancellations
